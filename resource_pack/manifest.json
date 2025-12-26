@@ -3,7 +3,7 @@
     "header": {
         "description": "Example vanilla resource pack",
         "name": "Vanilla Resource Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "uuid": "5f7466dd-ae38-4f2a-9a10-f588d70a066a",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 21, 130 ]
     },
@@ -11,7 +11,7 @@
         {
             "description": "Example vanilla resource pack",
             "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "uuid": "7786fac0-394f-436d-a5e8-779b7d1d1376",
             "version": [0, 0, 1]
         }
     ]
